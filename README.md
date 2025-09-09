@@ -42,10 +42,6 @@
 </p>
 
 ### 💼 Deneyim (özet)
-- **Yazılım Geliştirme Uzmanı — PossDx** *(Tem 2025 – Halen)*  
-  Python/Node.js ile ERP çözümleri ve entegrasyonlar; API, test ve canlıya geçiş süreçleri.
-- **Yazılım Geliştiricisi (Freelance) — PossDx** *(Tem 2024 – Şub 2025)*  
-  Veri modeli, REST API, entegrasyon ve dokümantasyon.
 - **Stajyer — Kuika Software** *(Şub 2025 – Haz 2025)*  
   Low-code/no-code üzerinde prototip, arayüz ve kullanıcı akışı geliştirme.
 - **Kurucu & Geliştirici — Fiersoft** *(Eki 2023 – Eyl 2024)*  
